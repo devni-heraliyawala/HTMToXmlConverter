@@ -8,7 +8,6 @@ using System.Text.RegularExpressions;
 using System.Xml;
 using System.Xml.Linq;
 using HtmlAgilityPack;
-using Microsoft.Data.SqlClient;
 using Newtonsoft.Json;
 using System.Drawing;
 using Microsoft.Extensions.Configuration;
